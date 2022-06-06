@@ -13,6 +13,11 @@ namespace BigSchool.Controllers
             return View();
         }
 
+        public ActionResult 123123()
+        {
+            return View();
+        }
+
         public ActionResult Index()
         {
             return View();
