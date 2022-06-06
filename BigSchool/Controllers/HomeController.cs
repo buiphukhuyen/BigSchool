@@ -8,7 +8,11 @@ namespace BigSchool.Controllers
 {
     public class HomeController : Controller
     {
-        public them moi lan 3
+        public ActionResult fasd()
+        {
+            return View();
+        }
+
         public ActionResult Index()
         {
             return View();
