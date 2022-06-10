@@ -9,6 +9,7 @@ namespace BigSchool.Controllers
     public class HomeController : Controller
     {
         //Code moi tuan 2
+        jkhdkjhaskjdhkjashdkjhkj
         public ActionResult fasd()
         {
             return View();
